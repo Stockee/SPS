@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "SPS",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 17,
@@ -30,7 +30,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/sps-favicon-100x46.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
