@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qyZAbjtge9 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qyZAbjtge9 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-qyZAbjtge9 a {
   font-style: normal;
@@ -1426,7 +1426,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qyZAbjtge9 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1497,7 +1497,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qyZAbjtge9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1710,7 +1710,14 @@ body {
   }
 }
 .cid-qyZAbmu9U2 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/e61c806107-weiss-2000x1328.jpg");
+}
+.cid-qyZAbmu9U2 H1 {
+  color: #232323;
+}
+.cid-qyZAbmu9U2 .mbr-text,
+.cid-qyZAbmu9U2 .mbr-section-btn {
+  color: #465052;
 }
 .cid-qyZAboabVi {
   padding-top: 60px;
