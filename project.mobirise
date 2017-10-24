@@ -16,22 +16,22 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Raleway",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Raleway",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Raleway",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Raleway",
         "display7Size": 1,
-        "display4Font": "Rubik",
+        "display4Font": "Raleway",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/sps-favicon-100x46.png",
+    "favicon": "@PROJECT_PATH@/assets/images/sps-favicon-64x64-1.png",
     "noImageResize": ""
   },
   "pages": {
