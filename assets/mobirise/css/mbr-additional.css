@@ -1730,6 +1730,65 @@ body {
 .cid-qyZAbmu9U2 SPAN {
   color: #465052;
 }
+.cid-qz0ZIDI68a {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-qz0ZIDI68a .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qz0ZJhnwSC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qz0ZJhnwSC .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qz0ZJhnwSC .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qz0ZJhnwSC .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qz0ZJhnwSC .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qz0ZJhnwSC .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qz0ZJhnwSC .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qz0ZJWYWRy {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qz0ZJWYWRy .media-container-row .mbr-text {
+  color: #465052;
+}
 .cid-qz0lYH4Lyw .navbar {
   background: #ffffff;
   transition: none;
